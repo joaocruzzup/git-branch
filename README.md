@@ -23,6 +23,7 @@ Na imagem as bolinhas são os commits e as cores distinguem a branch, ao criar u
 e quando estiver finalizado é possível realizar o `merge` de forma que todas as informações ficarão unidas na branch principal main.
 
 ![Imagem branch](https://github.com/joaocruzzup/git-branch/blob/main/branch-explicacao.jpg)
+fonte: imagem modificada do [site](https://www.nobledesktop.com/learn/git/git-branches)
 
 Utilizando o git branch:
 
@@ -33,3 +34,6 @@ Utilizando o git branch:
 - Passo 5: Para dar um git push com determinada branch utilize `git push origin nome_da_branch`;
 
 Pronto! Com isso já é possível gerenciar e utilizar as suas branchs!
+
+### Seção de Créditos das Imagens
+A imagem [branch-explicacao](https://github.com/joaocruzzup/git-branch/blob/main/branch-explicacao.jpg) foi utilizada e modificada do [site](https://www.nobledesktop.com/learn/git/git-branches)
