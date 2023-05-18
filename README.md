@@ -18,6 +18,9 @@ Após seguir esses passos, o repositório remoto já estará clonado no seu dire
 # Tutorial git branch 
 
 Em resumo, uma branch é uma ramificação do código. É possível ter várias branchs dentro de um código.
+Abaixo há uma imagem explicando como é a visualização de uma branch. 
+Na imagem as bolinhas são os commits e as cores distinguem a branch, ao criar uma nova branch é possível realizar commits normalmente, 
+e quando estiver finalizado é possível realizar o `merge` de forma que todas as informações ficarão unidas na branch principal main.
 
 ![Imagem branch](https://github.com/joaocruzzup/git-branch/blob/main/branch-explicacao.jpg)
 
